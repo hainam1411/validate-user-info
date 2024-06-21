@@ -13,3 +13,5 @@ m
 =src/main/java/org/example/validateusers/config/AppConfig.java,4\9\4963d3036706c3ce0b2908c14966882674860102
 k
 ;src/main/java/org/example/validateusers/config/AppInit.java,5\4\54be4815689d867e1a30059e635d2de40c6c4a77
+g
+7src/main/java/org/example/validateusers/model/User.java,6\6\665aae5a63d06cdd9e8b4157ce351069f36a20df
