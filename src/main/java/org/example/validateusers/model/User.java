@@ -6,10 +6,10 @@ import javax.validation.constraints.Size;
 
 public class User {
     @NotEmpty
-    @Size(min = 2, max =30, message = "User must be at least 2-30 characters!")
+    @Size(min = 2, max =30 )
     private String name;
 
-    @Min(value = 14, message = "Under 14 is not allowed!")
+    @Min(value = 14 )
     private int age;
 
     public User() {
